@@ -8,3 +8,6 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491234
 
 #### 3つめと2つ目に対象性があるべきか
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491324
+
+#### データの圧縮方法(重要)
+https://www.kaggle.com/competitions/leash-BELKA/discussion/491472
