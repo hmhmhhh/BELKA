@@ -14,3 +14,6 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491472
 
 ### CV の方法?
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491415
+
+### 今回のスコア方法(重要)
+https://www.kaggle.com/competitions/leash-BELKA/discussion/503232
