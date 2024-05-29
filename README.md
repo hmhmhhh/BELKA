@@ -11,9 +11,19 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491234
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491472
 
 
+### スキャフォードホッピング
+https://www.kaggle.com/competitions/leash-BELKA/discussion/493294
+2.スキャフォードホッピング参照
+
+
 ## 実際の解析方法
 ### transformerを用いたエンコーディング(あまりgood数少ないが後で見る)
 https://www.kaggle.com/competitions/leash-BELKA/discussion/492481
+
+### [LB0.613, low GPU resources!] my experimental results
+https://www.kaggle.com/competitions/leash-BELKA/discussion/492846
+1. my experimental results参照
+
 
 ## 評価方法
 ### 今回のスコア方法(重要)
@@ -24,9 +34,5 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491415
 
 ### 3つめと2つ目に対象性があるべきか
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491324
-
-### [LB0.613, low GPU resources!] my experimental results
-https://www.kaggle.com/competitions/leash-BELKA/discussion/492846
-1. my experimental results参照
 
 
