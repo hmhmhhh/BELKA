@@ -1,3 +1,9 @@
+ここから
+feature of training
+https://www.kaggle.com/competitions/leash-BELKA/discussion/494885
+
+
+
 # BELKA
 ## 過去の関連コンペ
 ### 過去のタンパク質コンペのまとめ　
@@ -14,6 +20,11 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491472
 ### スキャフォードホッピング
 https://www.kaggle.com/competitions/leash-BELKA/discussion/493294
 2.スキャフォードホッピング参照
+関連: https://www.kaggle.com/competitions/leash-BELKA/discussion/493297
+
+?
+https://www.kaggle.com/competitions/leash-BELKA/discussion/493607
+
 
 
 ## 実際の解析方法
