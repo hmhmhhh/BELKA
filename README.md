@@ -49,7 +49,9 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/495197
 
 ### trainデータとテストの関係性(重要)
 https://www.kaggle.com/competitions/leash-BELKA/discussion/496576
-数字が見ている数字と合わず
+再現
+https://onedrive.live.com/personal/e1cd03577e8d2f8b/_layouts/15/doc.aspx?resid=ad8527af-cd49-4244-8f10-b2b104b1b7ac&cid=e1cd03577e8d2f8b
+
 
 ### CV方法の例
 https://www.kaggle.com/competitions/leash-BELKA/discussion/497510
