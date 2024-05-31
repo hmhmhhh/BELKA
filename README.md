@@ -1,9 +1,3 @@
-ここから
-feature of training
-https://www.kaggle.com/competitions/leash-BELKA/discussion/494885
-
-
-
 # BELKA
 ## 過去の関連コンペ
 ### 過去のタンパク質コンペのまとめ　
@@ -11,6 +5,9 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491073
 
 ### 過去のタンパク質コンペの上位解法　
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491234
+
+### 分子を機械学習で表す方法論文リスト　
+https://www.kaggle.com/competitions/leash-BELKA/discussion/494914
 
 ## 前処理関連
 ### データの圧縮方法(重要)
@@ -45,5 +42,20 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491415
 
 ### 3つめと2つ目に対象性があるべきか
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491324
+
+### 3つのビルディングブロックの順番に意味はあるか？  
+https://www.kaggle.com/competitions/leash-BELKA/discussion/495197
+あるようだ。BB1が最も影響が少なく、結合するか否かに2,3は影響が大きいらしい・
+
+### trainデータとテストの関係性(重要)
+https://www.kaggle.com/competitions/leash-BELKA/discussion/496576
+数字が見ている数字と合わず
+
+### CV方法の例
+https://www.kaggle.com/competitions/leash-BELKA/discussion/497510
+
+
+
+
 
 
