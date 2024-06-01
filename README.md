@@ -6,8 +6,9 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/491073
 ### 過去のタンパク質コンペの上位解法　
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491234
 
-### 分子を機械学習で表す方法論文リスト　
+### 分子を機械学習で表す方法論文リスト　(重要)
 https://www.kaggle.com/competitions/leash-BELKA/discussion/494914
+関連Notebookhttps://www.kaggle.com/code/sdlee94/belka-molecule-representations-for-ml-tutorial/notebook?scriptVersionId=172758977l
 
 ## 前処理関連
 ### データの圧縮方法(重要)
@@ -32,6 +33,10 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/492481
 https://www.kaggle.com/competitions/leash-BELKA/discussion/492846
 1. my experimental results参照
 
+
+## GNNを用いる方法
+https://www.kaggle.com/competitions/leash-BELKA/discussion/498385
+macro precisionに変更する必要があるらしい
 
 ## 評価方法
 ### 今回のスコア方法(重要)
