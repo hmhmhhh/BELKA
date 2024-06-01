@@ -61,8 +61,9 @@ https://onedrive.live.com/personal/e1cd03577e8d2f8b/_layouts/15/doc.aspx?resid=a
 ### CV方法の例
 https://www.kaggle.com/competitions/leash-BELKA/discussion/497510
 
-
-
+## その他
+### 3次元表示する方法
+https://www.kaggle.com/competitions/leash-BELKA/discussion/497871
 
 
 
