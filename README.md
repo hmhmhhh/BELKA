@@ -14,6 +14,8 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/494914
 ### データの圧縮方法(重要)
 https://www.kaggle.com/competitions/leash-BELKA/discussion/491472
 
+### EDA  
+https://www.kaggle.com/code/antoninadolgorukova/belka-reading-and-quick-stats/notebook
 
 ### スキャフォードホッピング
 https://www.kaggle.com/competitions/leash-BELKA/discussion/493294
