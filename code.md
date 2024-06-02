@@ -8,12 +8,14 @@
 * 1dCNN https://www.kaggle.com/code/ahmedelfazouan/belka-1dcnn-starter-with-all-data
   * この精度がかなり良い印象
   * AVGPOOLを取るべきらしい
+  * 　BuildingBlockは入れていない..?
 
 * chemBERTa https://www.kaggle.com/code/tetsuya3510/leash-bio-chemberta-baseline (要確認)
 
 * GraphNN
   *  https://www.kaggle.com/code/hengck23/lb0-602-graph-nn-example これが精度よさそう
   * https://www.kaggle.com/code/agastyapulapaka/leash-tutorial-molecular-graphs-and-gnns
+  * 確認する価値あり
 
 * AUTOML
   * https://www.kaggle.com/code/motono0223/leash-bio-automl-baseline
